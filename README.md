@@ -6,6 +6,7 @@ This repository contains a website template with basic html tags for people who 
 
  - [x] SEO Tags
  - [x] Responsive Tags
+ - [x] Open Graph Tags
 
 ## Compatibility
 
