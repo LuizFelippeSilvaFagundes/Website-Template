@@ -13,8 +13,8 @@ This repository contains a website template with basic html tags for people who 
  
 |       |Chromium|Firefox | Safari |
 |----------------|--------|--------|--------|
-|Desktop|✔️|Not tested|Not tested
-|Mobile |Not tested| Not tested|Not tested
+|Desktop|✔️|✔️|Not tested
+|Mobile |✔️| ✔️|Not tested
 
 
 
